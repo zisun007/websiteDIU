@@ -6,7 +6,7 @@
     height: 100px;
 }
 .header-bg{
-    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) , url(assets/images/a.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)) , url(assets/images/a.jpg);
     height: 100%;
     background-position: center;
     background-size: cover;
